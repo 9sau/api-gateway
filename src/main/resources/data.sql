@@ -1,0 +1,1 @@
+insert into users(name, username, email, password, role_name) values ('Saurabh Jain', 'sj404x', 'saurabh@gmail.com', '{noop}1234', 'ROLE_ADMIN');
